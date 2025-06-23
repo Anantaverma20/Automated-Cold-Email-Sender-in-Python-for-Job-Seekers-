@@ -93,6 +93,3 @@ This script is intended for ethical cold emailing. Please comply with email etiq
 ---
 
 Feel free to ⭐️ this repo if it helps you, and contributions are welcome!
-
-```
-
