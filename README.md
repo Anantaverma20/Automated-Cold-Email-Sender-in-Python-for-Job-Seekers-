@@ -50,7 +50,7 @@ OpenAI,ML Engineer,hiring@openai.com
 
 In `send_emails.py`:
 
-* Replace your Gmail email and **App Password**
+* Replace your Gmail email and **App Password** check out this [link](https://youtu.be/g_j6ILT-X0k?si=3_uy3K4Cev_ua-rK) to get app password for your email address.
 * Make sure the resume file path is correct
 
 ### 3. Test It
